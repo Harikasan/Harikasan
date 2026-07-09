@@ -22,7 +22,7 @@ Building scalable backend systems, AI-powered applications, and cloud-native sof
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,ts,js,cpp,react,nextjs,nodejs,express,mysql,postgres,redis,aws,docker,kubernetes,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,python,ts,js,cpp,react,nextjs,nodejs,express,mysql,postgres,redis,aws,docker,kubernetes,git,github,vscode,Terraform,Linux,CI/CD (GitHub Actions)" />
 </p>
 
 ---
@@ -32,8 +32,8 @@ Building scalable backend systems, AI-powered applications, and cloud-native sof
 | Project | Description | Tech |
 |---|---|---|
 | [UTAMarket](https://github.com/Harikasan/utamarket-prod) | AI-powered university marketplace with authentication, recommendations, and full-stack architecture. | Next.js, Prisma, MySQL, AI |
-| [Smart Hazard Detector](https://github.com/Harikasan/SmartHazard-Detector) | Real-time road hazard reporting platform with maps and community-driven reporting. | React, TypeScript, Firebase, Google Maps |
-| [Distributed Multiplayer Backend](https://github.com/Harikasan/distributed-game-backend) | Scalable backend platform for low-latency multiplayer services. | C++, Redis, PostgreSQL, Docker, Kubernetes |
+| [Smart Hazard Detector](https://github.com/Harikasan/SmartHazard-Detector) | Real-time hazard reporting platform with geospatial indexing, Firebase synchronization, and Google Maps integration. | React, TypeScript, Firebase, Google Maps |
+| [Distributed Multiplayer Backend](https://github.com/Harikasan/distributed-game-backend) | Distributed microservices backend supporting matchmaking, Redis caching, PostgreSQL persistence, Docker deployment, and Kubernetes orchestration. | C++, Redis, PostgreSQL, Docker, Kubernetes |
 |[Semantic Movie Recommender](https://github.com/Harikasan/semantic-movie-recommender)| Personalized movie recommendations using semantic search. | Python, Flask, NLP, Sentence Transformers |
 
 ---
