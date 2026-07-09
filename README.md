@@ -32,8 +32,8 @@ Building scalable backend systems, AI-powered applications, and cloud-native sof
 | Project | Description | Tech |
 |---|---|---|
 | [UTAMarket](https://github.com/Harikasan/utamarket-prod) | AI-powered university marketplace with authentication, recommendations, and full-stack architecture. | Next.js, Prisma, MySQL, AI |
-| Smart Hazard Detector (https://github.com/Harikasan/SmartHazard-Detector) | Real-time road hazard reporting platform with maps and community-driven reporting. | React, TypeScript, Firebase, Google Maps |
-| Distributed Multiplayer Backend (https://github.com/Harikasan/distributed-game-backend) | Scalable backend platform for low-latency multiplayer services. | C++, Redis, PostgreSQL, Docker, Kubernetes |
+| [Smart Hazard Detector](https://github.com/Harikasan/SmartHazard-Detector) | Real-time road hazard reporting platform with maps and community-driven reporting. | React, TypeScript, Firebase, Google Maps |
+| [Distributed Multiplayer Backend](https://github.com/Harikasan/distributed-game-backend) | Scalable backend platform for low-latency multiplayer services. | C++, Redis, PostgreSQL, Docker, Kubernetes |
 | Security Code Review Assistant | AI-powered secure code analysis with OWASP, CWE, CVSS, and MITRE ATT&CK mapping. | Python, FastAPI, LLMs, Security |
 
 ---
