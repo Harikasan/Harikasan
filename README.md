@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Harika Attipatla</h1>
+<h3 align="center">Hi 👋, I'm Harika Attipatla</h3>
 
-<h3 align="center">
+<h5 align="center">
 SDE @ Yottasecure | M.S. Computer Science @ UT Arlington
-</h3>
+</h5>
 
 <p align="center">
 Building scalable backend systems, AI-powered applications, and cloud-native software.
