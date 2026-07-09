@@ -22,7 +22,7 @@ Building scalable backend systems, AI-powered applications, and cloud-native sof
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,ts,js,cpp,react,nextjs,nodejs,express,mysql,postgres,redis,aws,docker,kubernetes,git,github,vscode,Terraform,Linux,CI/CD (GitHub Actions)" />
+  <img src="https://skillicons.dev/icons?i=java,python,ts,js,cpp,react,nextjs,nodejs,express,mysql,postgres,redis,aws,docker,kubernetes,git,github,vscode,terraform,linux" />
 </p>
 
 ---
