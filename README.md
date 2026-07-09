@@ -47,12 +47,3 @@ Building scalable backend systems, AI-powered applications, and cloud-native sof
 - Secure Software Engineering
 
 ---
-
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/harika-attipatla-376430230/">LinkedIn</a> •
-  <a href="mailto:harikaattipatla@gmail.com">Email</a> •
-  <a href="https://github.com/Harikasan">GitHub</a>
-</p>
