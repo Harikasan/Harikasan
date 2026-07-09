@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harika Attipatla</h1>
 
 <h3 align="center">
-Software Engineer @ Yottasecure | M.S. Computer Science @ UT Arlington
+SDE @ Yottasecure | M.S. Computer Science @ UT Arlington
 </h3>
 
 <p align="center">
@@ -57,13 +57,6 @@ Building scalable backend systems, AI-powered applications, and cloud-native sof
 
 ---
 
-## 📈 Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harikasan&theme=github-compact&hide_border=true" />
-</p>
-
----
 
 ## 📫 Connect With Me
 
