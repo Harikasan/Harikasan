@@ -9,28 +9,17 @@ I'm a software engineer passionate about building scalable backend systems, full
 
 ### Languages
 Java • Python • TypeScript • JavaScript • C++ • SQL
-
 ### Frontend
 React • Next.js • Tailwind CSS
-
 ### Backend
 Node.js • Express • REST APIs • Prisma
-
 ### Databases
 MySQL • PostgreSQL • Redis
-
 ### Cloud & DevOps
 AWS • Docker • Kubernetes • GitHub Actions
-
 ### AI
 LLMs • RAG • OpenAI • AWS Bedrock • Groq
 
-##  Featured Projects
-
-- 🛒 **UTAMarket** – AI-powered marketplace platform built with Next.js, Prisma, MySQL, and AI recommendations.
-- 🛡️ **Smart Hazard Detector** – Community-driven road hazard detection platform with real-time reporting.
-- 🎮 **Distributed Multiplayer Backend** – Scalable C++, Redis, PostgreSQL, Docker, and Kubernetes backend architecture.
-- 🔒 **Security Code Review Assistant** – AI-powered secure code analysis with OWASP, CWE, and MITRE ATT&CK mapping.
 
 ## Currently Working On
 
